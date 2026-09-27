@@ -1,7 +1,3 @@
-#include <string>
-#include <vector>
-#include <unordered_map>
-
 class Solution {
 public:
     std::string evaluate(std::string s, std::vector<std::vector<std::string>>& knowledge) {
