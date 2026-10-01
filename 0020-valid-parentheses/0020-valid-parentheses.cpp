@@ -1,18 +1,25 @@
 class Solution {
 public:
     bool isValid(std::string s) {
+        std::unordered_map<char, char> bracket_map = {
+            {')', '('},
+            {'}', '{'},
+            {']', '['}
+        };
+        
         std::stack<char> st;
+        
         for (char ch : s) {
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
-            } else {
-                if (st.empty()) return false;
-                if (ch == ')' && st.top() != '(') return false;
-                if (ch == '}' && st.top() != '{') return false;
-                if (ch == ']' && st.top() != '[') return false;
+            if (bracket_map.count(ch)) {
+                if (st.empty() || st.top() != bracket_map[ch]) {
+                    return false;
+                }
                 st.pop();
+            } else {
+                st.push(ch);
             }
         }
+        
         return st.empty();
     }
 };
