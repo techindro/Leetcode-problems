@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/techindro/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/techindro/Leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -37,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/techindro/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -68,6 +70,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/techindro/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/techindro/Leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
