@@ -5,6 +5,7 @@
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/techindro/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/techindro/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/techindro/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/techindro/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -45,6 +46,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/techindro/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/techindro/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/techindro/Leetcode-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/techindro/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/techindro/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -158,4 +160,5 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/techindro/Leetcode-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
