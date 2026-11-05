@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/techindro/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/techindro/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -91,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/techindro/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/techindro/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/techindro/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/techindro/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/techindro/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/techindro/Leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/techindro/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
