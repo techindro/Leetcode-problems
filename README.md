@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/techindro/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -138,6 +139,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/techindro/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/techindro/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
@@ -206,11 +209,13 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/techindro/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,4 +228,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
