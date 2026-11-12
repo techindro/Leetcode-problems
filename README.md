@@ -58,6 +58,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/techindro/Leetcode-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/techindro/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/techindro/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/techindro/Leetcode-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/techindro/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
