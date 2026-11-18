@@ -35,6 +35,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/techindro/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/techindro/Leetcode-problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/techindro/Leetcode-problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/techindro/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/techindro/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/techindro/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
