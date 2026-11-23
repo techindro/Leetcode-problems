@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/techindro/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/techindro/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -49,6 +50,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/techindro/Leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/techindro/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/techindro/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -119,6 +121,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Concurrency
 |  |
@@ -248,4 +251,12 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/techindro/Leetcode-problems/tree/master/1267-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
