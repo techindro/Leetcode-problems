@@ -7,6 +7,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/techindro/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/techindro/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/techindro/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/techindro/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -67,6 +68,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/techindro/Leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/techindro/Leetcode-problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/techindro/Leetcode-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/techindro/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/techindro/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/techindro/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -120,6 +122,7 @@
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/techindro/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/techindro/Leetcode-problems/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/techindro/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/techindro/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/techindro/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/techindro/Leetcode-problems/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/techindro/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
