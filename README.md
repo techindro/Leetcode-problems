@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
 | [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/techindro/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/techindro/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/techindro/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0678-valid-parenthesis-string](https://github.com/techindro/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/techindro/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/techindro/Leetcode-problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -214,6 +216,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/techindro/Leetcode-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/techindro/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/techindro/Leetcode-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -259,4 +262,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/techindro/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/techindro/Leetcode-problems/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
